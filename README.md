@@ -1,8 +1,8 @@
-### Hi there! 👋
+### Hi there, my name is Victor! 👋
 
 
 
-Here are some ideas to get you started:
+Here are some facts about me:
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning and trying to master JavaScript and React
