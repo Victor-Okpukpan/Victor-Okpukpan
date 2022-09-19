@@ -4,7 +4,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on my personal portfolio
+- 🔭 I’m currently working on making a Restaurant website
 - 🌱 I’m currently learning and trying to master JavaScript and React
 - 👯 I’m looking to collaborate on any Front-End projects
 - 🤔 I’m looking for help with React.js
