@@ -4,7 +4,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on making an online fashion store
+- 🔭 I’m currently working on making an online jewelry store
 - 🌱 I’m currently learning and trying to master JavaScript and React
 - 👯 I’m looking to collaborate on any Front-End projects
 - 🤔 I’m looking for help with ReactJs
