@@ -12,3 +12,5 @@ Here are some facts about me:
 - 📫 How to reach me: Email: vokpukpan@gmail.com | Twitter: https://twitter.com/victorokpukpan_ | linkedIn: https://www.linkedin.com/in/victor-okpukpan
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love movies, games, and anime!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Okpukpan&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
