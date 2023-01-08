@@ -14,3 +14,5 @@ Here are some facts about me:
 - ⚡ Fun fact: I love movies, games, and anime!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Okpukpan&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni&theme=onedark)
