@@ -15,4 +15,4 @@ Here are some facts about me:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Okpukpan&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Victor-Okpukpan&theme=onedark)
+
