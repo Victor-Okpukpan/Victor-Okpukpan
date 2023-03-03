@@ -4,7 +4,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on making a clone of the Realtor website using React and Tailwind CSS
+- 🔭 I’m currently working on making a clone of the Realtor website and a new portfolio using React and Tailwind CSS
 - 🌱 I’m currently learning and trying to master JavaScript, React, and Firebase
 - 👯 I’m looking to collaborate on any Front-End projects
 - 🤔 I’m looking for help with ReactJs
