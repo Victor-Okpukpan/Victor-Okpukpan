@@ -41,5 +41,7 @@ Here are some facts about me:
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Victor-Okpukpan&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Okpukpan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Okpukpan&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Okpukpan&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=Nix&layout=compact)](https://github.com/Victor-Okpukpan/github-readme-stats)
