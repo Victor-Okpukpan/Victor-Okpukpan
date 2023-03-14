@@ -44,4 +44,4 @@ Here are some facts about me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Okpukpan&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Okpukpan&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=Nix&layout=compact)](https://github.com/Victor-Okpukpan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Okpukpan&exclude_repo=github-readme-stats,Victor-Okpukpan.github.io,tailwind&hide=Nix&layout=compact)](https://github.com/Victor-Okpukpan/github-readme-stats)
