@@ -16,8 +16,8 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on making a Realtor website clone
-- 🌱 I’m currently learning and trying to master React and Firebase
+- 🔭 I’m currently working on making a website for an N.G.O
+- 🌱 I’m currently learning and trying to master React and Next
 - 👯 I’m looking to collaborate on any Front-End projects
 - 🤔 I’m looking for help with React and Solidity
 - 💬 Ask me about anything
