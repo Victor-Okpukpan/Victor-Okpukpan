@@ -16,10 +16,10 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on making a website for an N.G.O
-- 🌱 I’m currently learning and trying to master React and Next
+- 🔭 I’m currently working on perfecting my skills as a Frontend dev
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on any Front-End projects
-- 🤔 I’m looking for help with React and Solidity
+- 🤔 I’m looking for help with Solidity
 - 💬 Ask me about anything
 - 📫 How to reach me: vokpukpan@gmail.com 
 - 😄 Pronouns: He/Him/His
