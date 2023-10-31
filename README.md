@@ -16,7 +16,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on perfecting my skills as a Frontend dev
+- 🔭 I’m currently working on perfecting my skills as a Frontend dev and starting a new career as a Smart Contract Developer
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on any Front-End projects
 - 🤔 I’m looking for help with Solidity
