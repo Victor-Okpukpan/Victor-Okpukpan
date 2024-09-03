@@ -16,12 +16,9 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on perfecting my skills as a Frontend dev and starting a new career as a Smart Contract Developer
-- 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on any Front-End projects
-- 🤔 I’m looking for help with Solidity
-- 💬 Ask me about anything
-- 📫 How to reach me: vokpukpan@gmail.com 
+- 🔭 I’m working on becoming a Web3 Security Researcher
+- 🌱 I’m currently perfecting my skills in Solidity
+- 📫 How to reach me: send a DM on X @victorokpukpan_
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love movies, games, and anime!
 
@@ -36,6 +33,7 @@ Here are some facts about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Git" **alt="Solidity" width="40" height="40"/>
 </div>
 
 ---
