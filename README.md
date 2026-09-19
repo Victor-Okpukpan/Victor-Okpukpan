@@ -24,14 +24,14 @@ I'm **Victor_TheOracle**, driven by a single mission: **protect user funds** and
 | Contest | High Risk | Medium Risk | Low Risk | Security Report | Ranking | Team Name |
 |---------|-----------|-------------|----------|-----------------|---------|-----------|
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | 1 | 1 | - | [Report](https://code4rena.com/reports/2025-01-liquid-ron) | 74th | - |
-| [Concrete](https://code4rena.com/@victortheoracle) | - | 1 (NDA) | - | Private (NDA) | - | - |
+| [Concrete](https://code4rena.com/audits/2024-11-concrete) | - | 1 (NDA) | - | Private (NDA) | - | - |
 
 ### <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://audits.sherlock.xyz/" alt="Sherlock Logo" width="27" height="27"> Sherlock
 
 | Contest | High Risk | Medium Risk | Security Report | Ranking | Team Name |
 |---------|-----------|-------------|-----------------|---------|-----------|
 | [Yieldoor](https://audits.sherlock.xyz/contests/791) | 1 | 1 | [Report](https://audits.sherlock.xyz/contests/791?filter=results) | 15th | - |
-| [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/755) | 1 | - | [Report](https://audits.sherlock.xyz/contests/838?filter=results) | 11th | - |
+| [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838) | 1 | - | [Report](https://audits.sherlock.xyz/contests/838?filter=results) | 11th | - |
 | [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171) | - | 1 | [Report](https://audits.sherlock.xyz/contests/1171?filter=results) | - | - |
 
 ### <img src="https://res.cloudinary.com/blackadam/image/upload/v1747148417/immunefi-icon_h53jrm.png" alt="Immunefi Logo" width="32" height="22"> Immunefi
@@ -66,7 +66,8 @@ You can find my public audit work and rankings on:
 
 ## ✉️ Let's Work Together
 
-I'm available for **private audits**, **consultations**, and **collaborative research**. Reach out on any of my socials or drop a note:
+I'm open to remote roles in security research, technical writing, developer relations, and smart contract or frontend development. I also take on private audits and security reviews. Reach out on any of my socials or drop a note:
 
-- **Twitter**: [Victor_TheOracle](https://x.com/victorokpukpan_)
+- **Portfolio**: [victortheoracle.xyz](https://victortheoracle.xyz)
+- **X**: [Victor_TheOracle](https://x.com/victorokpukpan_)
 - **Email**: vokpukpan@gmail.com
